@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 from PC
-=======
 from GitHub Website
->>>>>>> 2409394dede0ab8854a8f76fb041fdeca6a05a2b
